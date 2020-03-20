@@ -1,0 +1,18 @@
+footer.footer-area {
+  padding: 5rem 0;
+  background: url(../../img/footer-bg.png) no-repeat;
+}
+
+footer.footer-area .social h5 {
+  font: normal 500 23px/ 30px 'Roboto', cursive;
+}
+
+footer.footer-area .social a > i {
+  font-size: 22px;
+  padding: 2rem;
+  color: #201f1f17;
+}
+
+footer.footer-area .social a:hover > i {
+  color: #4458dc;
+}
